@@ -1,0 +1,27 @@
+:root {
+    --pink-text: #F73D93;
+    --navyblue-text:#7B2869;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Poppins", helvetica;
+    letter-spacing: 0.02em;
+}
+
+.text-pink{
+    color: var(--pink-text);
+}
+
+
+
+
+
+
+
+
+
